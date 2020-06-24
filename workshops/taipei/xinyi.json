@@ -1,0 +1,18 @@
+[{
+ "name":"摩都車業行",
+ "address":"110台北市信義區吳興街378號1樓",
+ "phone":"",
+ "bussinessHours":{
+    "monday":{},
+    "tuesday":{},
+    "wednesday":{},
+    "thursday":{},
+    "friday":{},
+    "saturday":{},
+    "sunday":{}
+ },
+ "sponsor":["Kymco"],
+ "latitude":"25.025081",
+ "longitude":"121.566974"   
+
+}]

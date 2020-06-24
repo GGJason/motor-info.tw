@@ -1,0 +1,18 @@
+[{
+ "name":"東貿機車有限公司",
+ "address":"106台北市大安區基隆路二段233號",
+ "phone":"",
+ "bussinessHours":{
+    "monday":{},
+    "tuesday":{},
+    "wednesday":{},
+    "thursday":{},
+    "friday":{},
+    "saturday":{},
+    "sunday":{}
+ },
+ "sponsor":["Hartford"],
+ "latitude":"25.022573",
+ "longitude":"121.550803"   
+
+}]
